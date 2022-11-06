@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Phyton, GraphQL, Azure**
 
-- 👨‍💻 All of my projects are available at [https://reyesriveiro.com](https://reyesriveiro.com)
-
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **jhessaureyes@gmail.com**
