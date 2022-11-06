@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jhonatan-essau-reyes-riveiro-232555219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatan-essau-reyes-riveiro-232555219" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19582187/jhess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19582187/jhess" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrifegqhlb4hvnhtonikhig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrifegqhlb4hvnhtonikhig" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrIFeGqhlB4hvNhTonIKHIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCrIFeGqhlB4hvNhTonIKHIg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
