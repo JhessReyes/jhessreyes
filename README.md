@@ -44,7 +44,12 @@
   <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=jhessreyes&hide_border=true&border_radius=0&locale=es&date_format=M%20j%5B%2C%20Y%5D&ring=5CE0E5&fire=66F9FF&currStreakLabel=54CCD0">
   <img/>
 </picture>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhessreyes&row=2&column=3" alt="jhessreyes" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=jhessreyes&row=2&column=3&no-frame=true&theme=nord&no-bg=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=jhessreyes&row=2&column=3&no-frame=true&theme=algolia&no-bg=true">
+  <img/>
+</picture>
 
 ****
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhessreyes&label=Profile%20views&color=0e75b6&style=flat" alt="jhessreyes" /> </p>
